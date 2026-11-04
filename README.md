@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Nowshin Chowdhury
 
-<!--
-**Nowshin17/Nowshin17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💙 Flutter Developer | Mobile App Developer
 
-Here are some ideas to get you started:
+I'm a passionate **Flutter Developer** from Bangladesh with experience in building responsive, user-friendly, and scalable mobile applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with Flutter, Dart, REST APIs, and modern development technologies. I'm also interested in full-stack development, backend systems, and software quality assurance.
+
+### 🚀 About Me
+
+- 📱 Flutter & Dart Developer
+- 💻 Experienced in mobile application development and API integration
+- 🌱 Currently learning Node.js, Express, and TypeScript
+- 🧪 Interested in Software Quality Assurance and API Testing
+- 🤖 Exploring AI/ML and recommendation systems
+- 🎯 Passionate about clean code and building practical applications
+
+### 🛠️ Technical Skills
+
+**Languages:** Dart, Python, TypeScript, PHP
+
+**Frontend & Mobile:** Flutter, React.js, HTML, CSS
+
+**Backend:** FastAPI Express.js
+
+**Databases:** PostgreSQL, MySQL
+
+**Tools:** Git, GitHub, Docker, Postman, VS Code
+
+
