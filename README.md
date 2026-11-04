@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Nowshin Chowdhury
 
-### 💙 Flutter Developer | Mobile App Developer
+### Flutter Developer | Mobile App Developer
 
-I'm a passionate **Flutter Developer** from Bangladesh, experienced in building scalable, user-friendly mobile applications. I've successfully published apps on the **Google Play Store and Apple App Store** and led a mobile app development team.
+I'm a passionate Flutter Developer from Bangladesh with 2+ years of professional experience in mobile application development. I specialize in building scalable, high-performance, and user-friendly mobile applications. I've led a mobile app development team.
 
 ### 🚀 About Me
 
