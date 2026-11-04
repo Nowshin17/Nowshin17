@@ -2,7 +2,7 @@
 
 ### Flutter Developer | Mobile App Developer
 
-I'm a passionate Flutter Developer from Bangladesh with 2+ years of professional experience in mobile application development. I specialize in building scalable, high-performance, and user-friendly mobile applications. I've led a mobile app development team.
+I'm a passionate Flutter Developer from Bangladesh with **2+ years** of professional experience in Mobile application development. I specialize in building scalable, high-performance, and user-friendly mobile applications. I've led a mobile app development team.
 
 ### 🚀 About Me
 
@@ -18,4 +18,4 @@ I'm a passionate Flutter Developer from Bangladesh with 2+ years of professional
 - **Frontend & Mobile:** Flutter, React.js, HTML, CSS
 - **Backend:** FastAPI, Express.js
 - **Databases:** PostgreSQL, MySQL
-- **Tools:** Git, GitHub, Docker, Postman, VS Code
+- **Tools:** Git, GitHub, Postman, VS Code, android Studio
