@@ -2,29 +2,20 @@
 
 ### 💙 Flutter Developer | Mobile App Developer
 
-I'm a passionate **Flutter Developer** from Bangladesh with experience in building responsive, user-friendly, and scalable mobile applications.
-
-I enjoy working with Flutter, Dart, REST APIs, and modern development technologies. I'm also interested in full-stack development, backend systems, and software quality assurance.
+I'm a passionate **Flutter Developer** from Bangladesh, experienced in building scalable, user-friendly mobile applications. I've successfully published apps on the **Google Play Store and Apple App Store** and led a mobile app development team.
 
 ### 🚀 About Me
 
 - 📱 Flutter & Dart Developer
-- 💻 Experienced in mobile application development and API integration
-- 🌱 Currently learning Node.js, Express, and TypeScript
-- 🧪 Interested in Software Quality Assurance and API Testing
-- 🤖 Exploring AI/ML and recommendation systems
-- 🎯 Passionate about clean code and building practical applications
+- 🚀 Published apps on **Play Store & App Store**
+- 👩‍💻 Experienced in leading a mobile development team
+- 🔗 Skilled in REST API integration and mobile app development
+- 🌱 Exploring backend development and software testing
 
-### 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
-**Languages:** Dart, Python, TypeScript, PHP
-
-**Frontend & Mobile:** Flutter, React.js, HTML, CSS
-
-**Backend:** FastAPI Express.js
-
-**Databases:** PostgreSQL, MySQL
-
-**Tools:** Git, GitHub, Docker, Postman, VS Code
-
-
+- **Languages:** Dart, Python, TypeScript, PHP
+- **Frontend & Mobile:** Flutter, React.js, HTML, CSS
+- **Backend:** FastAPI, Express.js
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Git, GitHub, Docker, Postman, VS Code
